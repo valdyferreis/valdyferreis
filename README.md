@@ -1,16 +1,20 @@
-## Hi there 👋
+ # **Hi, I'm Valdemar** 👋 
+###  
+![GitHub Logo](fundo_ds_git.JPG)
 
-<!--
-**valdyferreis/valdyferreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I? 
 
-Here are some ideas to get you started:
+* 👨‍💻 Data Analalytics
+* 🧑🏻‍🎓 Data Scientist
+* 👨🏼‍🎓 Data Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 👩‍💻
+
+* 🐍 Python.
+* 🗄 SQL.
+* 📊 Data Visualization
+* 🔮 Machine Learning. 
+
+## Find me too in
+
+*  [Linkedin]( https://www.linkedin.com/in/valdemarjoão )
