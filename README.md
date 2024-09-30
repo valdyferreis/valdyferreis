@@ -1,6 +1,4 @@
  # **Hi, I'm Valdemar** 👋 
-###  
-![GitHub Logo](fundo_ds_git.JPG)
 
 ## Who am I? 
 
