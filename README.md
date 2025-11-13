@@ -3,15 +3,18 @@
 ## Who am I? 
 
 * 👨‍💻 Data Analalytics
-* 🧑🏻‍🎓 Data Scientist
 * 👨🏼‍🎓 Data Engineering
 
 ## Skills 👩‍💻
 
-* 🐍 Python.
-* 🗄 SQL.
-* 📊 Data Visualization
-* 🔮 Machine Learning. 
+* Python.
+* SQL.
+* Data Visualization
+* Machine Learning.
+* AWS
+* Terraform
+* Bash
+* DataOps
 
 ## Find me too in
 
